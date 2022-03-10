@@ -1,0 +1,15 @@
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\bin\Debug\net6.0\JSBankingAPP.exe
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\bin\Debug\net6.0\JSBankingAPP.deps.json
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\bin\Debug\net6.0\JSBankingAPP.runtimeconfig.json
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\bin\Debug\net6.0\JSBankingAPP.dll
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\bin\Debug\net6.0\ref\JSBankingAPP.dll
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\bin\Debug\net6.0\JSBankingAPP.pdb
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.csproj.AssemblyReference.cache
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.AssemblyInfoInputs.cache
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.AssemblyInfo.cs
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.csproj.CoreCompileInputs.cache
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.dll
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\ref\JSBankingAPP.dll
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.pdb
+C:\Users\ahron\OneDrive\Desktop\training_sessions\revProject0\JSBankingAPP\obj\Debug\net6.0\JSBankingAPP.genruntimeconfig.cache
